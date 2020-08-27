@@ -1,0 +1,7 @@
+*python
+*django
+*django restframework
+*psycopg 
+*postman
+*postgresql
+*pgadmin
